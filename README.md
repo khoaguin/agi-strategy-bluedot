@@ -1,6 +1,6 @@
 ## 0. Resources
 - https://bluedot.org/courses/agi-strategy
-- Discussion doc
+
 ## 1. Racing to a Better Future
 ### An Introduction to The Launch Sequence: Why Shaping AI progress matters, and How to Go About It
 **Source:** https://ifp.org/preparing-for-launch/?utm_source=bluedot-impact
